@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# VS Community files
+*.vcxproj*
+x64
